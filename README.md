@@ -32,7 +32,7 @@ A robust REST API built with **Spring Boot** for managing tasks efficiently. Thi
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/Task-Management-System
+   git clone https://github.com/hitkalariya/Task-Management-System
    cd Task-Management-System
    ```
 
@@ -214,15 +214,11 @@ mvn test
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📞 Support
 
 For questions and support, please contact:
-- **Email**: support@taskmanager.com
-- **LinkedIn**: [Your Professional Profile](https://www.linkedin.com/in/your-profile/)
+- **Email**: hitkalariya88@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/hitkalariya/
 
 ---
 
